@@ -2,12 +2,12 @@
 Description
 Welcome to CatPhotoApp, a fun and interactive project designed to showcase adorable cat photos! Whether you're a cat lover or just a fan of cute images, this app provides a delightful gallery of cat photos that you can view and enjoy. Built using basic web technologies, this app demonstrates how to present and display images using HTML and CSS.
 
-Features
+##Features
 🐾 Cute Cat Photos: A gallery of high-quality cat photos for your viewing pleasure.
 📱 Responsive Design: Viewable on any device with a neat, mobile-friendly layout.
 🐱 Interactive: Enjoy a smooth user experience as you explore the gallery.
 
-Table of Contents
+##Table of Contents
 Demo
 Installation
 Usage
@@ -17,7 +17,7 @@ License
 Demo
 Check out a live demo of the CatPhotoApp by visiting this link. 😺
 
-Installation
+##Installation
 Clone the repository:
 
 bash
@@ -38,17 +38,17 @@ Edit
 python -m http.server
 This will host your app locally on http://localhost:8000.
 
-Usage
+##Usage
 Open the project in your browser by navigating to index.html or accessing it through a local server.
 Enjoy browsing through the cute cat photos!
 Explore the app and share it with your friends and fellow cat lovers!
 Screenshot
 Coming soon! Add your screenshots here to showcase the cat photo gallery. 🐾📸
 
-Code Explanation
+##Code Explanation
 The app is built using HTML and CSS to display a simple cat photo gallery.
 
-HTML Structure
+##HTML Structure
 The main file, index.html, contains the structure of the app, including an img tag for each cat photo.
 Each image is placed inside a container with a consistent size and responsive styling.
 CSS Styling
@@ -64,7 +64,7 @@ Contributions are welcome! Here's how you can help:
 
 Feel free to fork the project and submit a pull request with your improvements.
 
-License
+##License
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
 Enjoy your cat photo experience! 🐱📸🎉
